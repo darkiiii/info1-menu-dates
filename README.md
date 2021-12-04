@@ -23,5 +23,5 @@ date : un type composé de
 >
 </p>
 
-**{Création d'une variable de type *date*}**  
-d : une *date*
+**{Création d'une variable de type date}**  
+d : une date

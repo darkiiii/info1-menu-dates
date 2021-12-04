@@ -31,8 +31,10 @@ d : une date
 **{Déclaration des fonctions utilisées}**
 
 Menu : la fonction (vide) -> vide  
-Saisie : la fonction (ds : une date) -> vide  
-Ajouter : la fonction (da : une date, na : un entier) -> une date  
-Afficher : la fonction (vide) -> vide  
-Convertir : la fonction (dc : une date) -> un entier  
+Saisie : la fonction (vide) -> une date  
+{ overflow sur Ajouter }
+Ajouter : la fonction (d1 : une date, d2 : une date) -> une date  
+Ajouter : la fonction (d : une date, str : une chaine de charactères) -> une date
+Afficher : la fonction (d: une date) -> vide  
+Convertir : la fonction (d : une date) -> un entier  
 Modélisation : la fonction () ->  

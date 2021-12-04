@@ -5,5 +5,5 @@ date : un type composé de
 <  
 * jour : un entier
 * mois : un entier
-* année : un entier
-\>  
+* année : un entier  
+>  

@@ -2,8 +2,12 @@
 
 Ce projet a pour but la réalisation de fonctions permettant la manipulation de dates réprésentées par un type composé.
 
+---
+
 ## <ins>Algorithme</ins>
 Voici l'algorithme de tout le projet codé en C++
+
+---
 
 ### <ins>Lexique principal</ins>
 

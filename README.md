@@ -32,7 +32,7 @@ d : une date
 
 Menu : la fonction (vide) -> vide  
 Saisie : la fonction (vide) -> une date  
-{ overflow sur Ajouter }
+**{ overflow sur Ajouter }**  
 Ajouter : la fonction (d1 : une date, d2 : une date) -> une date  
 Ajouter : la fonction (d : une date, str : une chaine de charactères) -> une date
 Afficher : la fonction (d: une date) -> vide  

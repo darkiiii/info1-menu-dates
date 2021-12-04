@@ -1,6 +1,6 @@
 # <ins>Lexique principal</ins>
 
-<p style="padding-left: 20px;">
+<p>
 {Type composé : Date}<br>
 date : un type composé de<br>
 <

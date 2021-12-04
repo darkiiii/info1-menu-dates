@@ -3,11 +3,11 @@
 <p>
 {Type composé : Date}<br>
 date : un type composé de<br>
-\ <<br>
+ <<br>
   <ul>
     <li>jour  : un entier</li>
     <li>mois  : un entier</li>
     <li>année : un entier</li>
   </ul>
-\ ><br>
+ ><br>
 </p>

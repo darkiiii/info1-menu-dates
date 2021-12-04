@@ -3,9 +3,11 @@
 <p>
 {Type composé : Date}<br>
 date : un type composé de<br>
-<span STYLE="padding-left: 20px;"></span><<br>
-  <span STYLE="padding-left: 40px;">jour : un entier</span><br>
-  <span STYLE="padding-left: 40px;">mois : un entier</span><br>
-  <span STYLE="padding-left: 40px;">année : un entier</span><br>
-<span STYLE="padding-left: 20px;">></span><br>
+\ <<br>
+  <ul>
+    <li>jour  : un entier</li>
+    <li>mois  : un entier</li>
+    <li>année : un entier</li>
+  </ul>
+\ ><br>
 </p>

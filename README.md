@@ -30,13 +30,9 @@ d : une date
 
 **{Déclaration des fonctions utilisées}**
 
-Menu : la fonction (vide) -> vide
-Saisie : la fonction (ds : une date) -> vide
-
-Ajouter : la fonction (da : une date, na : un entier) -> une date
-
-Afficher : la fonction (vide) -> vide
-
-Convertir : la fonction (dc : une date) -> un entier
-
-Modélisation : la fonction () -> 
+Menu : la fonction (vide) -> vide  
+Saisie : la fonction (ds : une date) -> vide  
+Ajouter : la fonction (da : une date, na : un entier) -> une date  
+Afficher : la fonction (vide) -> vide  
+Convertir : la fonction (dc : une date) -> un entier  
+Modélisation : la fonction () ->  

@@ -4,8 +4,8 @@
 {Type composé : Date}  
 date : un type composé de  
 >
-* jour : un entier
-* mois : un entier
-* année : un entier  
+  jour : un entier<br>
+  mois : un entier<br>
+  année : un entier<br>
 >  
 </p>

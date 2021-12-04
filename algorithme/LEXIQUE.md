@@ -1,8 +1,8 @@
 # <ins>Lexique principal</ins>
 
+**{Type composé : date}**
+date : un type composé de
 <p>
-{Type composé : Date}<br>
-date : un type composé de<br>
 <
   <ul>
     <li>jour  : un entier</li>
@@ -11,3 +11,6 @@ date : un type composé de<br>
   </ul>
 >
 </p>
+
+**{Création d'une variable de type *date*}**
+d : une *date*

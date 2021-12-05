@@ -27,7 +27,6 @@ date : un type composé de
 d : une date
 
 **{Déclaration des fonctions utilisées}**
-
 Menu : la fonction (vide) -> vide  
 Saisie : la fonction (vide) -> une date  
 **{ overflow sur Ajouter }**  
@@ -39,7 +38,6 @@ Modélisation : la fonction () ->
 
 
 **{ Définition des fonctions }**
-
 { 
 &ensp;R : Permet d'afficher le menu  
 &ensp;E : vide  

@@ -45,8 +45,10 @@ Modélisation : la fonction () ->
 &ensp;S : vide  
 }  
 Menu : la fonction (vide) -> vide  
+
 **Lexique {Local}:**  
 &ensp;vide  
+
 **Algorithme {Local} :**  
 Début  
 &ensp;Ecrire ("Bienvenue sur ce programme de gestion de dates)  

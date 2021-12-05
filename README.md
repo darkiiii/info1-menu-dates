@@ -59,14 +59,15 @@ Début
 &ensp;Ecrire ("Pour convertir une date en JENSAISRIEN, tapez 4")  
 &ensp;Ecrire ("Pour MODELISATION PTN FONCTION DE MERDE, tapez 5")  
 &ensp;Ecrire ("Sinon, tapez 0 pour quitter")  
-Fin
+Fin  
+
 
 
 
 
 {
 &ensp;R : Permet d'afficher une date  
-&ensp;E : vide
+&ensp;E : vide  
 &ensp;S : vide  
 }  
 Afficher : la fonction (d: une date) -> vide 

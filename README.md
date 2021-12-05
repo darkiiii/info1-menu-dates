@@ -62,8 +62,7 @@ Début
 Fin  
 <br>  
 <br>  
-<br>  
-<br>  
+ 
 {  
 &ensp;R : Permet d'afficher une date  
 &ensp;E : vide  

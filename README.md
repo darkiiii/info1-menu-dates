@@ -39,10 +39,10 @@ Modélisation : la fonction () ->
 
 ### <ins>Définition des fonctions</ins>
 
-{ 
+{  
 &ensp;R : Permet d'afficher le menu  
 &ensp;E : vide  
-&ensp;S : vide
+&ensp;S : vide  
 }  
 Menu : la fonction (vide) -> vide
 **Lexique {Local}:**  

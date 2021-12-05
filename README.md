@@ -75,5 +75,5 @@ Afficher : la fonction (d: une date) -> vide
 
 **Algorithme {Local} :**  
 Début  
-&esnp;Ecrire (date)  
+&ensp;Ecrire (date)  
 Fin

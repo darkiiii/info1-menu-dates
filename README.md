@@ -51,16 +51,16 @@ Modélisation : la fonction () ->
 
 
 
-{ R : Permet d'afficher le menu  
-E : vide  
-S : vide}  
+{ 
+&ensp;R : Permet d'afficher le menu  
+&ensp;E : vide  
+&ensp;S : vide
+}  
 Menu : la fonction (vide) -> vide
-
 **Lexique {Local}:**  
-
+&ensp;vide
 **Algorithme {Local} :**  
 Début  
-
 &ensp;Ecrire ("Bienvenue sur ce programme de gestion de dates)  
 
 &ensp;Ecrire ("Pour saisir une date, tapez 1")  
@@ -69,5 +69,4 @@ Début
 &ensp;Ecrire ("Pour convertir une date en JENSAISRIEN, tapez 4")  
 &ensp;Ecrire ("Pour MODELISATION PTN FONCTION DE MERDE, tapez 5")  
 &ensp;Ecrire ("Sinon, tapez 0 pour quitter")  
-
 Fin

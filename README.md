@@ -26,8 +26,6 @@ date : un type composé de
 **{Création d'une variable de type date}**  
 d : une date
 
-
-
 **{Déclaration des fonctions utilisées}**
 
 Menu : la fonction (vide) -> vide  
@@ -40,16 +38,7 @@ Convertir : la fonction (d : une date) -> un entier
 Modélisation : la fonction () ->  
 
 
-
-
-
-
-
-
-
-
-
-
+**{ Définition des fonctions }**
 
 { 
 &ensp;R : Permet d'afficher le menu  

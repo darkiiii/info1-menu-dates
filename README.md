@@ -51,7 +51,7 @@ Menu : la fonction (vide) -> vide
 
 **Algorithme {Local} :**  
 Début  
-&ensp;Ecrire ("Bienvenue sur ce programme de gestion de dates)  
+&ensp;Ecrire ("Bienvenue sur ce programme de gestion de dates\n")  
 
 &ensp;Ecrire ("Pour saisir une date, tapez 1")  
 &ensp;Ecrire ("Pour Afficher la date saisie, tapez 2")  

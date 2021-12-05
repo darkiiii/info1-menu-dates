@@ -60,12 +60,11 @@ Début
 &ensp;Ecrire ("Pour MODELISATION PTN FONCTION DE MERDE, tapez 5")  
 &ensp;Ecrire ("Sinon, tapez 0 pour quitter")  
 Fin  
-
-
-
-
-
-{
+<br>  
+<br>  
+<br>  
+<br>  
+{  
 &ensp;R : Permet d'afficher une date  
 &ensp;E : vide  
 &ensp;S : vide  

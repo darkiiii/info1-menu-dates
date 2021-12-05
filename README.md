@@ -56,9 +56,9 @@ E : vide
 S : vide}  
 Menu : la fonction (vide) -> vide
 
-Lexique {Local}:  
+**Lexique {Local}:**  
 
-Algorithme {Local} :  
+**Algorithme {Local} :**  
 Début  
 
 &ensp;Ecrire ("Bienvenue sur ce programme de gestion de dates)  

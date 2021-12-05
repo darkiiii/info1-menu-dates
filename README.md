@@ -37,7 +37,8 @@ Convertir : la fonction (d : une date) -> un entier
 Modélisation : la fonction () ->  
 
 
-**{ Définition des fonctions }**
+### <ins>Définition des fonctions</ins>
+
 { 
 &ensp;R : Permet d'afficher le menu  
 &ensp;E : vide  

@@ -34,6 +34,7 @@ Ajouter : la fonction (d1 : une date, d2 : une date) -> une date
 Ajouter : la fonction (d : une date, str : une chaine de charactères) -> une date
 Afficher : la fonction (d: une date) -> vide  
 Convertir : la fonction (d : une date) -> un entier  
+Modélisation : la fonction () ->  
 
 
 ### <ins>Définition des fonctions</ins>
@@ -50,7 +51,7 @@ Menu : la fonction (vide) -> vide
 
 **Algorithme {Local} :**  
 Début  
-&ensp;Ecrire ("Bienvenue sur ce programme de gestion de dates\n")  
+&ensp;Ecrire ("Bienvenue sur ce programme de gestion de dates)  
 
 &ensp;Ecrire ("Pour saisir une date, tapez 1")  
 &ensp;Ecrire ("Pour Afficher la date saisie, tapez 2")  
@@ -58,4 +59,22 @@ Début
 &ensp;Ecrire ("Pour convertir une date en JENSAISRIEN, tapez 4")  
 &ensp;Ecrire ("Pour MODELISATION PTN FONCTION DE MERDE, tapez 5")  
 &ensp;Ecrire ("Sinon, tapez 0 pour quitter")  
+Fin
+
+
+
+
+{
+&ensp;R : Permet d'afficher une date  
+&ensp;E : vide
+&ensp;S : vide  
+}  
+Afficher : la fonction (d: une date) -> vide 
+
+**Lexique {Local} :**  
+&ensp;vide
+
+**Algorithme {Local} :**  
+Début  
+&esnp;Ecrire (date)  
 Fin

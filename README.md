@@ -31,9 +31,9 @@ Menu : la fonction (vide) -> vide
 Saisie : la fonction (vide) -> une date  
 **{ overflow sur Ajouter }**  
 Ajouter : la fonction (d1 : une date, d2 : une date) -> une date  
-Ajouter : la fonction (d : une date, str : une chaine de charactères) -> une date
-Afficher : la fonction (d: une date) -> vide  
-Convertir : la fonction (d : une date) -> un entier  
+Ajouter : la fonction (daj : une date, str : une chaine de charactères) -> une date
+Afficher : la fonction (daf: une date) -> vide  
+Convertir : la fonction (dc : une date) -> un entier  
 Modélisation : la fonction () ->  
 
 
@@ -68,12 +68,38 @@ Fin
 &ensp;E : vide  
 &ensp;S : vide  
 }  
-Afficher : la fonction (d: une date) -> vide 
+Afficher : la fonction (daf: une date) -> vide 
 
 **Lexique {Local} :**  
 &ensp;vide
 
 **Algorithme {Local} :**  
 Début  
-&ensp;Ecrire (date)  
-Fin
+&ensp;Ecrire (daf)  
+Fin  
+<br>  
+<br>  
+
+{  
+&ensp;R : Permet de saisir une date  
+&ensp;E : vide  
+&ensp;S : 1 date  
+}  
+Afficher : la fonction (d: une date) -> vide 
+
+**Lexique {Local} :**  
+&ensp;ds : 1 date  
+
+**Algorithme {Local} :**  
+Début  
+&ensp;Ecrire ("Saisir le jour")  
+&ensp;Lire (ds.jour)  
+&ensp;Ecrire ("Saisir le mois")  
+&ensp;Lire (ds.mois)  
+&ensp;Ecrire ("Saisir l'année")  
+&ensp;Lire (ds.année)  
+
+&ensp;Retourner date  
+Fin  
+
+

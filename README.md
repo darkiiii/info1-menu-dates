@@ -61,13 +61,13 @@ Lexique {Local}:
 Algorithme {Local} :  
 Début  
 
-Ecrire ("Bienvenue sur ce programme de gestion de dates)  
+&ensp;Ecrire ("Bienvenue sur ce programme de gestion de dates)  
 
-Ecrire ("Pour saisir une date, tapez 1")  
-Ecrire ("Pour Afficher la date saisie, tapez 2")  
-Ecrire ("Pour ajouter 2 dates, tapez 3")  
-Ecrire ("Pour convertir une date en JENSAISRIEN, tapez 4")  
-Ecrire ("Pour MODELISATION PTN FONCTION DE MERDE, tapez 5")  
-Ecrire ("Sinon, tapez 0 pour quitter")  
+&ensp;Ecrire ("Pour saisir une date, tapez 1")  
+&ensp;Ecrire ("Pour Afficher la date saisie, tapez 2")  
+&ensp;Ecrire ("Pour ajouter 2 dates, tapez 3")  
+&ensp;Ecrire ("Pour convertir une date en JENSAISRIEN, tapez 4")  
+&ensp;Ecrire ("Pour MODELISATION PTN FONCTION DE MERDE, tapez 5")  
+&ensp;Ecrire ("Sinon, tapez 0 pour quitter")  
 
 Fin

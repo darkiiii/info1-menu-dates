@@ -5,7 +5,9 @@ Ce projet a pour but la réalisation de fonctions permettant la manipulation de 
 ---
 
 ## <ins>Algorithme</ins>
-Voici l'algorithme de tout le projet codé en C++
+Voici une grande partie l'algorithme de tout le projet codé en C++  
+Les surcharges d'opérateur n'étant pas fesables en algorithme, des fonctions les remplacents ici  
+Certaines fonctions en C étant litéralement impossibles à traduire en algoithme, elle ne sont donc pas présentes ici  
 
 ---
 

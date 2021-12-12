@@ -5,6 +5,11 @@ struct Date
 	int a;
 };
 
+// Surchage de l'opérateur << pour le rendre compatible avec les dates
+std::ostream& operator<<(std::ostream& os, const Date& d);
+std::istream& operator>>(std::istream& os, Date& d);
+Date operator+(Date const& d1, Date const& d2);
+
 /*
 * R : teste si une année est bisextile
 * E : un nombre
@@ -39,17 +44,3 @@ Date Verif(Date);
 * S : vide
 */
 void Menu(void);
-
-/*
-* R : Affiche une date dans le format JJ:MM:AAAA
-* E : une date
-* S : vide
-*/
-void Affiche(Date);
-
-/*
-* R : Demande à l'utilisateur de saisir une date
-* E : vide
-* S : une date
-*/
-Date Saisie(void);

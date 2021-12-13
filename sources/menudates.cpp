@@ -5,13 +5,14 @@ using std::cout; using std::cin; using std::endl; using std::ostream; using std:
 
 const int MOIS[12] = { 31, 28, 31, 30, 31, 30, 31, 30, 31, 30, 31, 30 };
 
-// Surchage de l'opérateur << pour le rendre compatible avec les dates
+// Equivalent de la fonction Affichage : surcharge de cout
 ostream& operator<< (ostream& os, const Date& d)
 {
 	os << d.j << ':' << d.m << ':' << d.a;
 	return os;
 }
 
+// Equivalent de la fonction Saisie : surchage de cin
 istream& operator>> (istream& is, Date& d)
 {
 	char in[11];
@@ -50,6 +51,7 @@ istream& operator>> (istream& is, Date& d)
 	return is;
 }
 
+// Equivalent de la fonction ajouter : surcharge de l'opérateur +
 Date operator+(Date const& d1, Date const& d2) {
 	Date ds = d1;
 

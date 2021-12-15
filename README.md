@@ -102,4 +102,16 @@ Début
 &ensp;Retourner date  
 Fin  
 
+---
 
+## <ins>Conclusion</ins>  
+
+Au final, ce projet nous a permis de réviser la majorité des notions vues en C++ et quelques notions en plus comme la surcharge d'opérateurs, le traitement d'un type composé nécessitant des calculs récursifs pour obtenir la bonne date n'a pas été facile mais a été très intéressant.  
+
+### <ins>Notions utilisées</ins>  
+* Types composés
+* Fonctions
+* Opérations simples
+* Structures itératives
+* Structures conditionnelles
+* Surcharge d'opérateurs
